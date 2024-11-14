@@ -41,7 +41,3 @@ prevBtn.addEventListener("click", () => {
     showImages((imgIndex -= 1));
   }
 });
-
-// function highlightDots() {
-//   for(i=0)
-// }
